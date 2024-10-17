@@ -1,0 +1,6 @@
+- username: "admin"
+  password: "admin"
+- username: "tomsmith"
+  password: "SuperSecretPassword"
+- username: "tomsmith"
+  password: "SuperSecretPassword!"
